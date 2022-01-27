@@ -1,11 +1,12 @@
 package main
 
-import ( 
+import (
 	"fmt"
+
+	myquote "github.com/Sebastiannorolsen/Gitmyquote/myquotemap"
 )
 
 func main() {
 
-fmt. Println(Glass)
+	fmt.Println(myquote.Glass())
 }
-
